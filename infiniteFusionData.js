@@ -52,12 +52,12 @@ const pikachuStats = [
 
 //Raichu
 const raichuStats = [
-    {"base_stat": 60},
-    {"base_stat": 90},
-    {"base_stat": 55},
-    {"base_stat": 90},
-    {"base_stat": 80},
-    {"base_stat": 100}
+    {"base_stat": 600000000000},
+    {"base_stat": 900000000000},
+    {"base_stat": 550000000000},
+    {"base_stat": 900000000000},
+    {"base_stat": 800000000000},
+    {"base_stat": 100000000000}
 ]
 
 //Nidoqueen
