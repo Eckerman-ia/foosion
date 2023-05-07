@@ -42,12 +42,12 @@ const pidgeotStats = [
 
 //Pikachu
 const pikachuStats = [
-    {"base_stat": 35},
-    {"base_stat": 55},
-    {"base_stat": 30},
-    {"base_stat": 50},
-    {"base_stat": 40},
-    {"base_stat": 90}
+    {"base_stat": 3500000000},
+    {"base_stat": 5500000000},
+    {"base_stat": 3000000000},
+    {"base_stat": 5000000000},
+    {"base_stat": 4000000000},
+    {"base_stat": 9000000000}
 ]
 
 //Raichu
